@@ -12,3 +12,5 @@ satisfaction and retention.
 
 Clustering in this project is done using the clustering ML model (KMeans). 
 In this project, the spotify dataset is used.
+
+Full dataset source link: https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/data
