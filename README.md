@@ -1,4 +1,4 @@
-# Clustering-Top-Spotify-Songs
+# Clustering Top Spotify Songs Based on Rock Genre
 
 In today's era, there are many platforms to listen to
 music. Therefore, it is important to improve user
